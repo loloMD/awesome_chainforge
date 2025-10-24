@@ -8,16 +8,17 @@
 
 ## Contents <!-- omit in toc -->
 
-- [Official ressources](#official-ressources)
+- [Official resources](#official-resources)
+- [Community](#community)
+- [Custom Providers](#custom-providers)
 - [YouTube videos](#youtube-videos)
 - [Blog posts](#blog-posts)
 
 
 ---
+## Official resources
 
-## Official ressources
-
-*Official ressources serving as the basis to the project*
+*Official resources serving as the basis to the project*
 
 - [Live Demo](https://chainforge.ai/play) - ⛓️ Off-the-shelf live demo.
 - [Homepage](https://chainforge.ai/) - 🏠 Main website.
@@ -29,6 +30,10 @@
 
 - [Twitter Account](https://x.com/chainforge_ai) - 🐦 Official Twitter account.
 - The official Community Discord server [![Discord](https://img.shields.io/discord/1405689845245804628?label=discord&logo=discord&color=7289da)](https://discord.gg/DNpuumFx)
+
+## Custom Providers
+   Save this code as a Python script (.py), then drop it into ChainForge settings
+ - [Grok](https://github.com/user-attachments/files/21926395/grok_chainforge_provider.py.zip) (unzip for python code)
 
 ## YouTube videos
 
