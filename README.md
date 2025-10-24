@@ -31,9 +31,24 @@
 - [Twitter Account](https://x.com/chainforge_ai) - 🐦 Official Twitter account.
 - The official Community Discord server [![Discord](https://img.shields.io/discord/1405689845245804628?label=discord&logo=discord&color=7289da)](https://discord.gg/DNpuumFx)
 
-## Custom Providers
-   Save this code as a Python script (.py), then drop it into ChainForge settings
- - [Grok](https://github.com/user-attachments/files/21926395/grok_chainforge_provider.py.zip) (unzip for python code)
+## Custom Providers (docs [here](https://chainforge.ai/docs/custom_providers/))
+
+### 𝕏 : [x.AI](https://docs.x.ai/docs/overview)'s Grok models
+
+   Save this code as a Python script (`.py`), then drop it into **ChainForge settings**
+ - [Zip archive](https://github.com/user-attachments/files/21926395/grok_chainforge_provider.py.zip), unzip for python code
+    <details>
+    <summary>Models implemented</summary>
+
+      - Grok 4 (`grok-4-0709`, `grok-4`)
+      - Grok 2 (`grok-2-1212`, `grok-2`)
+      - Grok 2 Vision (`grok-2-vision-1212`)
+      
+      ![Screenshot of Grok models executed on Chainforge's Prompt Node](/assets/Custom_provider_Grok.png)
+    
+    </details>
+
+
 
 ## YouTube videos
 
